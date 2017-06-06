@@ -1,5 +1,6 @@
 # GUI_Customers_Java
-This is a Graphical User Interface (GUI) functioning as a registration system for customers developed in Java.
+This is a Graphical User Interface (GUI) developed in Java functioning as a Registration System for customers.
+The Export button defined in the GUI also enables outputing the registered customers (which are contained in Vector<Customer> customers) as a file in a format that can be directly loaded into the MySQL database.
 
 ## CustomerList.java
 This file defines the CustomerList constructor within which an GUI object is called and with an WindowAdapter object
